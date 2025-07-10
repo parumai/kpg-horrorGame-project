@@ -1,3 +1,3 @@
 function screamer() {
-  alert("イヤーーーーーッ！！！  というとでも？　えへっ！");
+  alert("えへっ！");
 }
